@@ -1,1 +1,1 @@
-web: cerridwen-server -p 80
+web: cerridwen-server
