@@ -1,1 +1,1 @@
-web: cerridwen-server
+web: gunicorn cerridwen.app
