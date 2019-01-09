@@ -1,1 +1,1 @@
-web: gunicorn cerridwen.app
+web: gunicorn cerridwen
